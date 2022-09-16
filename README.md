@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 ![Image](Images/splash.jpg)
 
 2. Onboarding Screens
-![Image](Images/ob1.jpg)![Image](Images/ob2.jpg)![Image](Images/ob3.jpg)
+![Image](Images/ob 1.jpg)![Image](Images/ob 2.jpg)![Image](Images/ob 3.jpg)
 
