@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## App Screenshots
 1. Splash Screen
-![Image](Images/splash.jpg)
+<p><img src="Images/splash.jpg" height="300em" /></p>
 
 2. Onboarding Screens
 ![Image](Images/ob 1.jpg)![Image](Images/ob 2.jpg)![Image](Images/ob 3.jpg)
