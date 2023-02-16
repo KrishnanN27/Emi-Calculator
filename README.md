@@ -1,19 +1,9 @@
 # emi_calculator
 
-A new Flutter project.
+So I made this app using flutter, and its responsive in a sense, you can use this same code to generate website, android app and also a ios app
+The biggest feauture of this app is to generate a pdf for mobile, which the user can use as a reference for later
 
-## Getting Started
+fyr -- there is Images folder here where you can see the screenshots of the app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## You can Find the App screenshots and its apk in the Images/ App apk folders
+Thats it, feel free to use it for your reference. Have a good one
 
