@@ -21,11 +21,11 @@ Here are some screenshots of the app:
 
 ![Splash Screen](/Images/splash.jpg)
 
-![On-boarding Screen]
+![On-boarding Screen
 <div align="center">
-    <img src="/Images/ob 1.jpg"/>
-    <img src="/Images/ob 2.jpg"/>
-    <img src="/Images/ob 3.jpg"/>
+    <img src="/Images/ob 1.jpg" width="250"/>
+    <img src="/Images/ob 2.jpg" width="250"/>
+    <img src="/Images/ob 3.jpg" width="250"/>
 </div>
 
 ![Home Screen](/Images/homescreen.jpg)
