@@ -1,7 +1,9 @@
 # EMI Calculator
 
 <div align="center">
+    
 ![App Logo](/Images/logo.png)
+
 </div>
 
 ## Overview
@@ -26,8 +28,8 @@ Here are some screenshots of the app:
 *On-boarding Screen*
 
 <div align="center">
-    <img src="/Images/ob 1.jpg" style="margin-right: 10px;" height = "700" width="250"/>
-    <img src="/Images/ob 2.jpg" style="margin-right: 10px;" height = "700" width="250"/>
+    <img src="/Images/ob 1.jpg" style="margin-right: 20px;" height = "650" width="250"/>
+    <img src="/Images/ob 2.jpg" style="margin-right: 20px;" height = "650" width="250"/>
     <img src="/Images/ob 3.jpg" height = "700"width="250"/>
 
 *Home Screen*
