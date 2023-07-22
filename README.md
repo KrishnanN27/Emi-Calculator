@@ -21,12 +21,13 @@ Here are some screenshots of the app:
 
 ![Splash Screen](/Images/splash.jpg)
 
-![On-boarding Screen
+*On-boarding Screen*
+
 <div align="center">
-    <img src="/Images/ob 1.jpg" width="250"/>
-    <img src="/Images/ob 2.jpg" width="250"/>
-    <img src="/Images/ob 3.jpg" width="250"/>
-</div>
+    <img src="/Images/ob 1.jpg" height = "100" width="250"/>
+    <img src="/Images/ob 2.jpg" height = "100" width="250"/>
+    <img src="/Images/ob 3.jpg" height = "100"width="250"/>
+
 
 ![Home Screen](/Images/homescreen.jpg)
 
@@ -47,7 +48,7 @@ Here are some screenshots of the app:
 ![Navigation Drawer (Website version)](/Images/navweb.jpg)
 
 ![About me](/Images/abtme.jpg)
-
+</div>
 ## Installation
 
 To install the EMI Calculator app on your device, follow these steps:
