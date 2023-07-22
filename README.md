@@ -3,7 +3,7 @@
 ## Logo of the App
 
 <div align="center">
-  <img src="/Images/logo.jpg" alt="Splash Screen" width="400" height="800"/>
+  <img src="/Images/logo.png" alt="Splash Screen" width="400" height="800"/>
 </div>
 
 ## Overview
@@ -30,21 +30,21 @@ The EMI Calculator app is a multi-platform mobile application designed to help u
 ### Onboarding Screens
 
 <div align="center">
-    <img src="/Images/ob%201.jpg" alt="Onboarding Screen 1" width="250"/>
-    <img src="/Images/ob%202.jpg" alt="Onboarding Screen 2" width="250"/>
-    <img src="/Images/ob%203.jpg" alt="Onboarding Screen 3" width="250"/>
+    <img src="/Images/ob%201.jpg" alt="Onboarding Screen 1" style="margin-right: 35px;" height = "600" width="250"/>
+    <img src="/Images/ob%202.jpg" alt="Onboarding Screen 2" style="margin-right: 35px;" height = 600 width="250"/>
+    <img src="/Images/ob%203.jpg" alt="Onboarding Screen 3" height = 600 width="250"/>
 </div>
 
 ### Home Screen
 
 <div align="center">
-  <img src="/Images/homescreen.jpg" alt="Home Screen" width="250"/>
+  <img src="/Images/homescreen.jpg" alt="Home Screen" />
 </div>
 
 ### Home Screen (Website version)
 
 <div align="center">
-  <img src="/Images/home.jpg" alt="Home Screen (Website version)" width="400"/>
+  <img src="/Images/home.jpg" alt="Home Screen (Website version)" />
 </div>
 
 ### Housing Loan
@@ -56,7 +56,7 @@ The EMI Calculator app is a multi-platform mobile application designed to help u
 ### Housing Loan (Website version)
 
 <div align="center">
-  <img src="/Images/hous.jpg" alt="Housing Loan (Website version)" width="400"/>
+  <img src="/Images/hous.jpg" alt="Housing Loan (Website version)" />
 </div>
 
 ### Personal Loan
@@ -86,7 +86,7 @@ The EMI Calculator app is a multi-platform mobile application designed to help u
 ### Navigation Drawer (Website version)
 
 <div align="center">
-  <img src="/Images/navweb.jpg" alt="Navigation Drawer (Website version)" width="400"/>
+  <img src="/Images/navweb.jpg" alt="Navigation Drawer (Website version)" />
 </div>
 
 ### About Me
