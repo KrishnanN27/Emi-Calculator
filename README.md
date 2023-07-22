@@ -2,7 +2,7 @@
 
 <div align="center">
     
-    <img src="/Images/logo.jpg"/>
+   ![Splash Screen](/Images/logo.jpg)
 
 </div>
 
@@ -23,13 +23,12 @@ The EMI Calculator app is a multi-platform mobile application designed to help u
 
 Here are some screenshots of the app:
 
-*Splash Screen*
+<div align="center">
+    *Splash Screen*
 
 ![Splash Screen](/Images/splash.jpg)
 
 *On-boarding Screen*
-
-<div align="center">
     <img src="/Images/ob 1.jpg" style="margin-right: 30px;" height = "600" width="250"/>
     <img src="/Images/ob 2.jpg" style="margin-right: 30px;" height = "600" width="250"/>
     <img src="/Images/ob 3.jpg" height = "600"width="250"/>
