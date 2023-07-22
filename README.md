@@ -3,7 +3,7 @@
 ## Logo of the App
 
 <div align="center">
-  <img src="/Images/logo.png" alt="Splash Screen" width="400" height="800"/>
+  <img src="/Images/logo.png" alt="Splash Screen"/>
 </div>
 
 ## Overview
@@ -38,13 +38,13 @@ The EMI Calculator app is a multi-platform mobile application designed to help u
 ### Home Screen
 
 <div align="center">
-  <img src="/Images/homescreen.jpg" alt="Home Screen" />
+  <img src="/Images/homescreen.jpg" alt="Home Screen" width="250"/>
 </div>
 
 ### Home Screen (Website version)
 
 <div align="center">
-  <img src="/Images/home.jpg" alt="Home Screen (Website version)" />
+  <img src="/Images/home.jpg" alt="Home Screen (Website version)"  />
 </div>
 
 ### Housing Loan
