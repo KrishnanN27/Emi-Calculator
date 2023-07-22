@@ -2,7 +2,7 @@
 
 <div align="center">
     
-![App Logo](/Images/logo.png)
+    <img src="/Images/logo.jpg"/>
 
 </div>
 
