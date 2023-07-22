@@ -26,9 +26,9 @@ Here are some screenshots of the app:
 *On-boarding Screen*
 
 <div align="center">
-    <img src="/Images/ob 1.jpg" height = "850" width="250"/>
-    <img src="/Images/ob 2.jpg" height = "850" width="250"/>
-    <img src="/Images/ob 3.jpg" height = "850"width="250"/>
+    <img src="/Images/ob 1.jpg" height = "800" width="250"/>
+    <img src="/Images/ob 2.jpg" height = "800" width="250"/>
+    <img src="/Images/ob 3.jpg" height = "800"width="250"/>
 
 *Home Screen*
 
