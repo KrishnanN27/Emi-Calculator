@@ -1,6 +1,8 @@
 # EMI Calculator
 
+<div align="center">
 ![App Logo](/Images/logo.png)
+</div>
 
 ## Overview
 
@@ -24,31 +26,52 @@ Here are some screenshots of the app:
 *On-boarding Screen*
 
 <div align="center">
-    <img src="/Images/ob 1.jpg" height = "100" width="250"/>
-    <img src="/Images/ob 2.jpg" height = "100" width="250"/>
-    <img src="/Images/ob 3.jpg" height = "100"width="250"/>
+    <img src="/Images/ob 1.jpg" height = "1000" width="250"/>
+    <img src="/Images/ob 2.jpg" height = "1000" width="250"/>
+    <img src="/Images/ob 3.jpg" height = "1000"width="250"/>
 
+*Home Screen*
 
 ![Home Screen](/Images/homescreen.jpg)
 
+*Home Screen (Website version)*
+
 ![Home Screen (Website version)](/Images/home.jpg)
+
+*Housing Loan*
 
 ![Housing Loan](/Images/housing.jpg)
 
+*Housing Loan(Website version)*
+
 ![Housing Loan (Website version)](/Images/hous.jpg)
+
+*Personal Loan*
 
 ![Personal Loan](/Images/personal.jpg)
 
+*Car Loan*
+
 ![Car Loan](/Images/car.jpg)
+
+*Pdf of the calculation*
 
 ![Pdf of the calculation](/Images/pdf.jpg)
 
+*Navigation Drawer*
+
 ![Navigation Drawer](/Images/naviagtion.jpg)
+
+*Navigation Drawer (Website version)*
 
 ![Navigation Drawer (Website version)](/Images/navweb.jpg)
 
+*About me*
+
 ![About me](/Images/abtme.jpg)
+
 </div>
+
 ## Installation
 
 To install the EMI Calculator app on your device, follow these steps:
