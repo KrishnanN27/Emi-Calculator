@@ -1,14 +1,14 @@
 # EMI Calculator
 
+## Overview
+
+The EMI Calculator app is a multi-platform mobile application designed to help users calculate their Equated Monthly Installments (EMI) for personal, car, and home loans. The app provides a user-friendly interface that allows users to input loan details and generate accurate EMI calculations. It also includes splash screens, onboarding screens, and the ability to generate PDFs of the calculations for users' convenience.
+
 ## Logo of the App
 
 <div align="center">
   <img src="/Images/logo.png" alt="Splash Screen"/>
 </div>
-
-## Overview
-
-The EMI Calculator app is a multi-platform mobile application designed to help users calculate their Equated Monthly Installments (EMI) for personal, car, and home loans. The app provides a user-friendly interface that allows users to input loan details and generate accurate EMI calculations. It also includes splash screens, onboarding screens, and the ability to generate PDFs of the calculations for users' convenience.
 
 ## Features
 
